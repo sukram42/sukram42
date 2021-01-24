@@ -7,6 +7,8 @@ Here is a little overview on my repositories and my plans for future projects.
   <summary>
 From time to time I am planning the participation in some Hackertons and co. The repositories are linked below. </br> Click here to open.</summary>
   
+</br>
+
   | Name   | Competition | Year | Description
   |:---:   | :---:       |  :---: |:---
   | [SmartQ](https://github.com/sukram42/SmartQ) | [hackatum 2020](https://devpost.com/software/smartqueue-4im8hf ) | 2020|Application to keep track on the amount of people within a shop
@@ -19,6 +21,8 @@ From time to time I am planning the participation in some Hackertons and co. The
 <details>
   <summary>
 In these Repository I want to gain experiences in different Algorithms. I haven't yet started with many of the projects, so the following list is used as a list of possible ideas. When started, I will link the repositories or parts to the list :) </br> Click here to open.</summary>
+  
+</br>
 
   | Name   | Main Purpose | Year | Description
   |:---:   | :---: | :---: |  :---
@@ -30,7 +34,9 @@ In these Repository I want to gain experiences in different Algorithms. I haven'
 ### University related
 <details>
   <summary>Below repositories are listed, which were created for university purposes. This also lists projects listed by group members. </br> Click here to open.</summary>
-  
+    
+</br>
+
   | Name   | Task | Year | Description
   |:---:   | :---: |  :---: | :---
   | [Fallstudie](https://github.com/sukram42/Fallstudie) | Design and implementation of a business simulation game | 2016-2017 | The task was to create a business simulation game, in which different players can run a company and compete against each other.
