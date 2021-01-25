@@ -1,11 +1,11 @@
-### Welcome to my Github Page! 👋
+# Welcome to my Github Page! 👋
 
 Here is a little overview on my repositories and my plans for future projects.
 
-### Competitions
+## Competitions
 <details>
   <summary>
-From time to time I am planning the participation in some Hackertons and co. The repositories are linked below. </br> Click here to open.</summary>
+From time to time I am planning the participation in some Hackertons and co. The repositories are linked below. </br> <b>Click here to open.</b> </summary>
   
 </br>
 
@@ -17,10 +17,10 @@ From time to time I am planning the participation in some Hackertons and co. The
 </details>
 
 
-### ML, DL Experiments
+## ML, DL Experiments
 <details>
   <summary>
-In these Repository I want to gain experiences in different Algorithms. I haven't yet started with many of the projects, so the following list is used as a list of possible ideas. When started, I will link the repositories or parts to the list :) </br> Click here to open.</summary>
+In these Repository I want to gain experiences in different Algorithms. I haven't yet started with many of the projects, so the following list is used as a list of possible ideas. When started, I will link the repositories or parts to the list :) </br> <b>Click here to open.</b></summary>
   
 </br>
 
@@ -31,9 +31,9 @@ In these Repository I want to gain experiences in different Algorithms. I haven'
   | NLP Experiments (planned) | Repository for Implementation of NLP algorithms. | planned | <ul><li>Using and adapt BERT</li><li>Language Generation using GAN?</li><li>Reininforcement Learning in NLP</li></ul>
 </details>
 
-### University related
+## University related
 <details>
-  <summary>Below repositories are listed, which were created for university purposes. This also lists projects listed by group members. </br> Click here to open.</summary>
+  <summary>Below repositories are listed, which were created for university purposes. This also lists projects listed by group members. </br> <b>Click here to open.</b></summary>
     
 </br>
 
