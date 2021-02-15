@@ -14,6 +14,16 @@ In these Repository I want to gain experiences in different Algorithms. I haven'
   | RL-ly Fun (planned) | Repository for Implementation of Deep-Reinforcement Learning with focus on sample Efficiency |planned | Implementation and Comparison of <ul><li>DDPG</li><li>TP3</li><li>SAC and variations</li></ul>
   | NLP Experiments (planned) | Repository for Implementation of NLP algorithms. | planned | <ul><li>Using and adapt BERT</li><li>Language Generation using GAN?</li><li>Reininforcement Learning in NLP</li></ul>
 
+## Other Hobby projects
+
+</br>
+
+  | Name   | Main Purpose | Year | Description
+  |:---:   | :---: | :---: |  :---
+  | [Genflix](https://sukram42.github.io/genflix/) |[Genflix](https://github.com/sukram42/genflix)Tool to explore the hidden genres of Netlix |2021| Netflix has a big number of genres which they do not show. With Genflix I want to make them more accessible :)
+  | [arXis-analyzer](https://github.com/sukram42/arXiv-analyser)| Little tool to analyze the popularity of certain research topics  | 2021 | It gives information about the number of posted papers on arXis.org based on certain topics. (e.g anomaly detection with and on graphs)
+
+  
 ## Competitions
 From time to time I am planning the participation in some Hackertons and co. The repositories are linked below.
   
