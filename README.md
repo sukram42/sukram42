@@ -10,10 +10,10 @@ In these Repository I want to gain experiences in different Algorithms. I haven'
 
   | Name   | Main Purpose | Year | Description
   |:---:   | :---: | :---: |  :---
-  | [Fun with GAN](https://github.com/sukram42/project-fun-with-GAN) | Repository for GAN Networks |2020| <ul><li>GAN on MNIST</li><li>Conditioned GAN on MNIST</li><li>Analyse of latent state of GAN (planned)</li><li>GAN for Time Series Anomaly Detection</li><li>Compression using GAN or VAEs? </li></ul>
+  | [Fun with GAN](https://github.com/sukram42/project-fun-with-GAN) | Repository for GAN Networks |2021| <ul><li>GAN on MNIST</li><li>Conditioned GAN on MNIST</li><li>Analyse of latent state of GAN (planned)</li><li>GAN for Time Series Anomaly Detection</li><li>Compression using GAN or VAEs? </li><li>Neural Processes</li><li>GAN on Graphs</li></ul>
   | [RL-ly Fun](https://github.com/sukram42/project-RL-Fun)  | Repository for Implementation of Deep-Reinforcement Learning with focus on sample Efficiency |2021 | Implementation and Comparison of <ul><li>DDPG</li><li>TP3</li><li>SAC and variations</li></ul>
   | NLP Experiments (planned) | Repository for Implementation of NLP algorithms. | planned | <ul><li>Using and adapt BERT</li><li>Language Generation using GAN?</li><li>Reininforcement Learning in NLP</li></ul>
-
+| Graph DL | Implementation of a Deep Learning algorithms on graph data. |planned| <ul><li>GNN from Scratch</li><li>GNN For Image classification</li></ul>
 ## Other Hobby projects
 
 </br>
